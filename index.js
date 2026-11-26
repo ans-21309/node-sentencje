@@ -48,3 +48,4 @@ const server = http.createServer(async (req, res) => {
 server.listen(PORT, () => {
     console.log(`Serwer działa: http://localhost:${PORT}/`);
 });
+// Dosłownie dodaje linijke tutaj żeby można było dać commit do zad 6 bo tam są tylko eksperymenty bez zmian plików.
